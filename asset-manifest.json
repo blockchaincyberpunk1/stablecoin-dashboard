@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stablecoin-dashboard/static/css/main.d04eade6.css",
+    "main.js": "/stablecoin-dashboard/static/js/main.5155e09e.js",
+    "static/js/453.bb8e9d0b.chunk.js": "/stablecoin-dashboard/static/js/453.bb8e9d0b.chunk.js",
+    "index.html": "/stablecoin-dashboard/index.html",
+    "main.d04eade6.css.map": "/stablecoin-dashboard/static/css/main.d04eade6.css.map",
+    "main.5155e09e.js.map": "/stablecoin-dashboard/static/js/main.5155e09e.js.map",
+    "453.bb8e9d0b.chunk.js.map": "/stablecoin-dashboard/static/js/453.bb8e9d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04eade6.css",
+    "static/js/main.5155e09e.js"
+  ]
+}
